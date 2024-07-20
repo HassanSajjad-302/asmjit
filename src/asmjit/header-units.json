@@ -1,0 +1,12 @@
+{
+    "BuildAsHeaderUnits": [
+        "a64.h",
+        "arm.h",
+        "asmjit-scope-begin.h",
+        "asmjit-scope-end.h",
+        "asmjit.h",
+        "core.h",
+        "x86.h"
+    ],
+    "Version": "1.0"
+}

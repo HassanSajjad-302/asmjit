@@ -1,0 +1,23 @@
+{
+    "BuildAsHeaderUnits": [
+        "a64archtraits_p.h",
+        "a64assembler.h",
+        "a64builder.h",
+        "a64compiler.h",
+        "a64emithelper_p.h",
+        "a64emitter.h",
+        "a64formatter_p.h",
+        "a64func_p.h",
+        "a64globals.h",
+        "a64instapi_p.h",
+        "a64instdb.h",
+        "a64instdb_p.h",
+        "a64operand.h",
+        "a64rapass_p.h",
+        "armformatter_p.h",
+        "armglobals.h",
+        "armoperand.h",
+        "armutils.h"
+    ],
+    "Version": "1.0"
+}

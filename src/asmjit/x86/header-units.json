@@ -1,0 +1,20 @@
+{
+    "BuildAsHeaderUnits": [
+        "x86archtraits_p.h",
+        "x86assembler.h",
+        "x86builder.h",
+        "x86compiler.h",
+        "x86emithelper_p.h",
+        "x86emitter.h",
+        "x86formatter_p.h",
+        "x86func_p.h",
+        "x86globals.h",
+        "x86instapi_p.h",
+        "x86instdb.h",
+        "x86instdb_p.h",
+        "x86opcode_p.h",
+        "x86operand.h",
+        "x86rapass_p.h"
+    ],
+    "Version": "1.0"
+}
